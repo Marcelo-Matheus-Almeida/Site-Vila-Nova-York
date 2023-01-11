@@ -124,3 +124,28 @@ p{
         height: 110px;
     }
 }
+
+#mapa iframe{
+    width: 100%;
+    margin-bottom: 0;
+}
+
+#footer{
+    background: #133c55;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer p{
+    color: whitesmoke;
+}
+
+#footer a{
+    color: whitesmoke;
+}
+
+#footer a:hover{
+    color: #59A5D8;
+}
